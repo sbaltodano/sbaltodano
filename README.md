@@ -41,7 +41,3 @@ I built an investment bot to pull live stock prices every minute from the Yahoo 
 [LinkedIn](https://www.linkedin.com/in/s-baltodano/)
 
 [Blog](https://medium.com/@samanthbaltodano)
-
-
-
-So long, farewell!
