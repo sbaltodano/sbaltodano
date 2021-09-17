@@ -5,9 +5,11 @@ Hello and welcome! I am happy and proud to share my Github profile and projects 
 ## Projects
 
 [Inclusive Content Filtering For Social Media](https://github.com/sbaltodano/nsfw_image_classification), 2021
+
 Social media platforms like Facebook and Instagram have received a lot of public scrutiny regarding content filters in recent years. Image filters are regarded as too rigid and non-inclusive; Facebook as we all know has faced lawsuits regarding their inhibition on user freedom of expression. Following this outrage, I sought to build an image classifier for inclusive content filtering; a classifier capable of weeding our truly explicit images, without shaming nursing mothers or exhibiting racial bias. Truly a content filter for all.
 
 [SyriaTel Churn Predictor](https://github.com/sbaltodano/SyriaTel_customer_churn), 2021
+
 Churn is one of the most important metrics a company can track and provides valuable insight into the customer experience and overall satisfaction with the company. SyriaTel's churn is 14x the churn of their top 5 competitors in the telecom industry. In my analysis of churned clients I deduced that a customer's "calls to customer service" and "day call charges" were key indicators of a customer's likelihood to "soon churn." Utilizing these features and several others, I built a machine learning model capable of predicting whether a client will "soon churn" with 83% recall.
 
 [Pneumonia Detector For Children Under 5](https://github.com/sbaltodano/pneumonia_xray_neural_networks), 2021
