@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 
 ## Commissioned Work
 TD Ameritrade Automated Investment Bot, 2021
+
+[LinkedIn](https://www.linkedin.com/in/s-baltodano/)
+[Blog](https://medium.com/@samanthbaltodano)
