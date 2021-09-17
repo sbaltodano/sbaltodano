@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Projects
+
+[Inclusive Content Filtering For Social Media](https://github.com/sbaltodano/nsfw_image_classification), 2021
+
+[SyriaTel Churn Predictor](https://github.com/sbaltodano/SyriaTel_customer_churn), 2021
+
+[Pneumonia Detector For Children Under 5](https://github.com/sbaltodano/pneumonia_xray_neural_networks), 2021
+
+[King County Housing Price Predictions](https://github.com/iansharff/king_county_housing), 2021
+
+[Microsoft Films Analysis](https://github.com/sbaltodano/microsoft_films_analysis), 2021
+
+## Commissioned Work
+TD Ameritrade Automated Investment Bot, 2021
