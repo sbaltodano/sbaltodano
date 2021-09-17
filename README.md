@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello and welcome! Take a look around and make yourself comfortable.
 
 <!--
 **sbaltodano/sbaltodano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 TD Ameritrade Automated Investment Bot, 2021
 
 [LinkedIn](https://www.linkedin.com/in/s-baltodano/)
+
 [Blog](https://medium.com/@samanthbaltodano)
