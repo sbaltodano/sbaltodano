@@ -19,7 +19,7 @@ TD Ameritrade Automated Investment Bot, 2021
 
 
 
-#### Don't be shy, let's connect!
+## Don't be shy, let's connect!
 [LinkedIn](https://www.linkedin.com/in/s-baltodano/)
 
 [Blog](https://medium.com/@samanthbaltodano)
