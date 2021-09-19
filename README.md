@@ -29,7 +29,7 @@ TD Ameritrade Automated Investment Bot, 2021
 I built an investment bot to pull live stock prices every minute from the Yahoo Finance API during trading hours. If a stock's price crossed the 20 day moving average on a downward trend, a "sell" trigger went off for the bot to log into the user's TD Ameritrade account and execute a trade - selling all owned share's of that particular stock. When a stock's price crossed the 20 day moving average on an upwards trend, a trigger was set off for the bot to log into the user's TD Ameritrade account and execute a trade, utilizing all available funds in the user's account.
 
 
-## Don't be shy, let's connect!
+## Let's connect!
 
 [<img src="174857.png" width="50" height="50">](https://www.linkedin.com/in/s-baltodano/)
 [<img src="5754350.png" width="50" height="50">](https://medium.com/@samanthbaltodano)
