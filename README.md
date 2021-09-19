@@ -38,10 +38,6 @@ I built an investment bot to pull live stock prices every minute from the Yahoo 
 
 ## Don't be shy, let's connect!
 
-[LinkedIn](https://www.linkedin.com/in/s-baltodano/)
+[<img src="174857.png" width="50" height="50">](https://www.linkedin.com/in/s-baltodano/)
 
-[Blog](https://medium.com/@samanthbaltodano)
-
-[![name](link to image on GH)](link to your URL)
-
-[<img src="174857.png" width="20" height="20">](https://www.linkedin.com/in/s-baltodano/)
+[<img src="5754350.png" width="50" height="50">](https://medium.com/@samanthbaltodano)
