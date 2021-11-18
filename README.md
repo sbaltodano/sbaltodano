@@ -4,8 +4,11 @@ Hello and welcome! I am happy and proud to share my Github profile and projects 
 ## In Progress
 
 I am learning:
+
 👩🏽‍💻 SQL
+
 💻 Data Structures and Algorithms
+
 🇯🇵 Japanese
 
 I am working on:
