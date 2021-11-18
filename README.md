@@ -1,6 +1,17 @@
 # Welcome To My Github Profile!
 Hello and welcome! I am happy and proud to share my Github profile and projects with you. 
 
+## In Progress
+
+I am learning:
+👩🏽‍💻 SQL
+💻 Data Structures and Algorithms
+🇯🇵 Japanese
+
+I am working on:
+* Bot to source investment properties
+* Automated investments as a service
+
 ## Projects
 
 [Inclusive Content Filtering For Social Media](https://github.com/sbaltodano/nsfw_image_classification), 2021
