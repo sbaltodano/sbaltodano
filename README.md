@@ -5,11 +5,9 @@ Hello and welcome! I am happy and proud to share my Github profile and projects 
 
 I am learning:
 
-👩🏽‍💻 SQL
-
-💻 Data Structures and Algorithms
-
-🇯🇵 Japanese
+* SQL 👩🏽‍💻  
+* Data Structures and Algorithms 💻
+* Japanese 🇯🇵
 
 I am working on:
 * Bot to source investment properties
