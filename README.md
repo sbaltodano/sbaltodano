@@ -11,7 +11,7 @@ I am learning:
 
 I am working on:
 * Bot to source investment properties
-* Automated investments as a service
+* Automated investments membership platform
 
 ## Projects
 
